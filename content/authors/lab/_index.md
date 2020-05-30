@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Welcome
+title:
 
 # Username (this should match the folder name)
 authors:
@@ -14,10 +14,6 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Brigham and Women's Hospital
-  url: "https://www.brighamandwomens.org/"
-- name: Harvard Medical School
-  url: "https://hms.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -46,4 +42,4 @@ email: ""
 user_groups: []
 ---
 
-The Oldham lab does great science related to pulmonary vascular disease.
+The Oldham Lab in [Pulmonary and Critical Care Medicine Division](https://www.brighamandwomens.org/medicine/pulmonary-and-critical-care-medicine) and [Department of Medicine](https://www.brighamandwomens.org/department-of-medicine) at [Brigham and Women's Hospital](https://www.brighamandwomens.org/) and [Harvard Medical School](https://hms.harvard.edu/) studies cellular metabolic responses to hypoxia and the metabolic pathobiology of pulmonary vascular disease. We have expertise in state-of-the-art approaches in the field including metabolomics, stable isotope tracing, extracellular flux analyses, and network medicine applied to experimental systems ranging from protein biochemistry to clinical studies. 

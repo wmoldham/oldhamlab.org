@@ -83,7 +83,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 William Oldham is an Assistant Professor of Medicine and Associate Physician at Brigham and Women's Hospital and Harvard Medical School. His research interests include pulmonary arterial hypertension, cell metabolism, adaptation to hypoxia, and network medicine. He is also the Scientific Director of the BWH Seahorse Core facility.
