@@ -20,21 +20,24 @@ organizations:
   url: "https://hms.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a...
+bio: I am a postdoctoral fellow studying taurine metabolism in pulmonary hypertension.
 
 interests:
 - Pulmonary vascular disease
-- Metabolism
+- Taurine metabolism
 - Hypoxia
 
 education:
   courses:
-  - course: PhD in Pharmacology
-    institution: Vanderbilt University
-    year: 2006
-  - course: BS in Chemistry
-    institution: University of North Carolina at Chapel Hill
-    year: 2001
+  - course: Postdoctoral Fellowship
+    institution: Vanderbilt University Medical Center
+    year: 2017
+  - course: PhD in Molecular Physiology & Biophysics
+    institution: Vanderbilt University School of Medicine
+    year: 2017
+  - course: BS in Biochemistry and Cellular and Molecular Biology
+    institution: University of Tennessee, Knoxville
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,35 +49,29 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wm_oldham
+  link: https://twitter.com/Courtne91128758
 - icon: pubmed
   icon_pack: ai
-  link: https://www.ncbi.nlm.nih.gov/myncbi/william.oldham.1/bibliography/public/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=cba3bIAAAAAJ&hl=en
+  link: https://www.ncbi.nlm.nih.gov/myncbi/1Zqab7aa-qtAf/bibliography/public/
 # - icon: orcid
 #   icon_pack: ai
-#   link: https://orcid.org/0000-0003-3029-4866
-# - icon: researchgate
-#   icon_pack: ai
-#   link: https://www.researchgate.net/profile/William_Oldham
-- icon: github
-  icon_pack: fab
-  link: https://github.com/wmoldham
+#   link: 
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Courtney_Copeland
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv_copeland_2019-07-20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ccopeland2@bwh.harvard.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Postdoctoral Fellow
 ---
 
-Courtney Copeland is a postdoctoral fellow...
+Courtney Copeland is a Postdoctoral Fellow at Brigham and Women's Hospital and Harvard Medical School. She joined the Oldham lab in December 2018. She studies the role of taurine metabolism in the pathobiology of pulmonary arterial hypertension and metabolic adaptation to hypoxia.
