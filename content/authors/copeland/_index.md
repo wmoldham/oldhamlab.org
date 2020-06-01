@@ -44,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Courtne91128758
@@ -71,7 +71,7 @@ email: "ccopeland2@bwh.harvard.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Fellow
+- Researchers
 ---
 
 Courtney Copeland is a Postdoctoral Fellow at Brigham and Women's Hospital and Harvard Medical School. She joined the Oldham lab in December 2018. She studies the role of taurine metabolism in the pathobiology of pulmonary arterial hypertension and metabolic adaptation to hypoxia.

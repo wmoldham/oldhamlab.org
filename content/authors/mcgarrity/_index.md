@@ -18,50 +18,51 @@ organizations:
   url: "https://www.brighamandwomens.org/"
 - name: Harvard Medical School
   url: "https://hms.harvard.edu/"
+- name: University of Iceland
+  url: "https://www.hi.is//"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a...
+bio: I am a systems biologist who studies endothelial cell metabolic responses to stress.
 
 interests:
-- Pulmonary vascular disease
 - Metabolism
+- Glycomics
+- Inflammation
 - Hypoxia
 
 education:
   courses:
-  - course: PhD in Pharmacology
-    institution: Vanderbilt University
-    year: 2006
-  - course: BS in Chemistry
-    institution: University of North Carolina at Chapel Hill
-    year: 2001
+  - course: PhD in Systems Biology
+    institution: Newcastle University
+    year: 2015
+  - course: MRes in Medical and Molecular Biology Systems Biology
+    institution: Newcastle University
+    year: 2010
+  - course: BA in Medical Sciences/Genetics
+    institution: University of Cambridge
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/wm_oldham
-- icon: pubmed
-  icon_pack: ai
-  link: https://www.ncbi.nlm.nih.gov/myncbi/william.oldham.1/bibliography/public/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=cba3bIAAAAAJ&hl=en
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/0000-0003-3029-4866
-# - icon: researchgate
-#   icon_pack: ai
-#   link: https://www.researchgate.net/profile/William_Oldham
-- icon: github
-  icon_pack: fab
-  link: https://github.com/wmoldham
+  link: https://scholar.google.is/citations?user=1Awael0AAAAJ&hl=en 
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2878-6194
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Sarah_Mcgarrity
+- icon: cubes
+  icon_pack: fas
+  link: https://loop.frontiersin.org/people/295265/overview
+# - icon: loop
+#   icon_pack: custom
+#   link: https://loop.frontiersin.org/people/295265/overview
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,4 +78,4 @@ user_groups:
 - Researchers
 ---
 
-Sarah McGarrity is a postdoctoral fellow...
+Sarah McGarrity is a Postdoctoral Fellow at Brigham and Women's Hospital and Harvard Medical School holding a [Novo Nordisk Foundation Postdoctoral Fellowship](https://nordiclifescience.org/exploring-links-between-endothelial-cell-function-and-metabolism/) for research abroad from the University of Iceland. She joined the Oldham lab in February 2020 where she continues her close collaboration with investigators from the [Center for Systems Biology at the University of Iceland](https://systemsbiology.hi.is/team/). She will use her time here to study how the endothelial glycocalyx contributes to endothelial cell redox homeostasis and how various pathologic stressors affect this relationship. 
