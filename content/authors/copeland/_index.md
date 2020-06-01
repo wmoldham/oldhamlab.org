@@ -74,4 +74,4 @@ user_groups:
 - Researchers
 ---
 
-Courtney Copeland is a Postdoctoral Fellow at Brigham and Women's Hospital and Harvard Medical School. She joined the Oldham lab in December 2018. She studies the role of taurine metabolism in the pathobiology of pulmonary arterial hypertension and metabolic adaptation to hypoxia.
+Courtney joined the Oldham lab in December 2018. She studies the role of taurine metabolism in the pathobiology of pulmonary arterial hypertension and metabolic adaptation to hypoxia.

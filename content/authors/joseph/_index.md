@@ -43,4 +43,4 @@ user_groups:
 - Alumni
 ---
 
-
+Phillip Joseph worked in the lab from September 2016 to June 2017 during the research portion of his pulmonary and critical care medicine fellowship training. He performed our initial experiments investigating the role of taurine in pulmonary vascular cell biology.
