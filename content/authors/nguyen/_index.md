@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aliya Gottehrer-Cohen
+title: Phuong Nguyen
 
 # Username (this should match the folder name)
 authors:
-- cohen
+- nguyen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -43,4 +43,4 @@ user_groups:
 - Alumni
 ---
 
-
+Phuong was a research assistant in the laboratory from January 2017 through September 2019. She assisted with all aspects of our research program from molecular biology through animal experiments. 

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Phuong Nguyen
+title: Aliya Gottehrer-Cohen
 
 # Username (this should match the folder name)
 authors:
-- nguyen
+- cohen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -43,4 +43,4 @@ user_groups:
 - Alumni
 ---
 
-
+Aliya worked in the lab from January to July 2016 as a co-op research assistant from Northeastern University. She performed the initial bioinformatic analyses pointing the lab toward a possible role for taurine metabolism in the metabolic adaptation of cells to hypoxia. 
