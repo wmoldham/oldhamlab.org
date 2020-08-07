@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Kevin Leahy
+title: David Ziehr
 
 # Username (this should match the folder name)
 authors:
-- leahy
+- ziehr
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Brigham and Women's Hospital
-  url: "https://www.brighamandwomens.org/"
+- name: Massachusetts General Hospital
+  url: "https://www.massgeneral.org/"
 - name: Harvard Medical School
   url: "https://hms.harvard.edu/"
 
@@ -23,18 +23,27 @@ organizations:
 bio: 
 
 interests:
-- Biochemistry
 - Metabolism
 - Hypoxia
+- Pulmonary fibrosis
 
-education:
-  courses:
-  - course: MS in Biochemistry and Molecular Biophysics
-    institution: University of Chicago
-    year: 2017
-  - course: BS in Biochemistry and Molecular Biology
-    institution: University of New Hampshire
-    year: 2013
+# education:
+#   courses:
+#   - course: Fellowship, Pulmonary and Critical Care Medicine
+#     institution: Harvard Combined Fellowship Program
+#     year: 2015
+#   - course: Residency, Internal Medicine
+#     institution: Massachusetts General Hospital
+#     year: 2010
+#   - course: MD
+#     institution: Vanderbilt University School of Medicine
+#     year: 2008
+#   - course: PhD in Pharmacology
+#     institution: Vanderbilt University
+#     year: 2006
+#   - course: BS in Chemistry
+#     institution: University of North Carolina at Chapel Hill
+#     year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +53,9 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/wm_oldham
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/david_ziehr
 # - icon: pubmed
 #   icon_pack: ai
 #   link: https://www.ncbi.nlm.nih.gov/myncbi/william.oldham.1/bibliography/public/
@@ -77,4 +86,4 @@ user_groups:
 - Researchers
 ---
 
-Kevin Leahy is a research assistant who joined the Oldham lab in June 2019. 
+David is a fellow in Pulmonary and Critical Care Medicine at Massachusetts General Hospital.
