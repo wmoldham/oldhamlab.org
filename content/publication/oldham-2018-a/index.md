@@ -2,7 +2,7 @@
 title: "The Long Noncoding RNA LnRPT Puts the Brakes on Pulmonary Artery Smooth Muscle Cell Proliferation"
 date: 2018-02-01
 publishDate: 2020-08-07T20:23:25.120209Z
-authors: ["William M. Oldham"]
+authors: ["W. M. Oldham"]
 publication_types: ["2"]
 abstract: ""
 featured: false
