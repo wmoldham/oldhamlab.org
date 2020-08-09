@@ -13,7 +13,7 @@ date_end: "2020-08-09T09:10:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-08-09T09:10:00EST"
+publishDate: "2020-08-09T09:10:00"
 
 authors: [oldham]
 tags: [pulmonary hypertension, network medicine]
