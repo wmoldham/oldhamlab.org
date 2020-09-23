@@ -4,7 +4,7 @@ event: Integrative Genomics Strategies for Complex Respiratory Diseases
 event_url: https://conference.thoracic.org/index.php
 
 location: American Thoracic Society 2020 Virtual
-location.address: Online
+address: Online
 
 summary: How network approaches may support precision medicine efforts in pulmonary hypertension.
 abstract: "Pulmonary hypertension is a hemodynamic complication of many different disease processes. Network approaches provide novel tools for characterizing clinical and molecular disease phenotypes. Here, I review the application of network analyses to pulmonary hypertension to illustrate how they can identify new molecular mechanisms of disease, classify patients by phenotypic similarities, and integrate disparate omics datasets."
