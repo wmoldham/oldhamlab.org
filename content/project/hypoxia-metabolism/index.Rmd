@@ -8,7 +8,7 @@ tags:
 - Metabolic Flux
 - Metabolomics
 - HIF
-date: "2020-09-22T00:00:00Z"
+date: "2020-09-22"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -35,7 +35,25 @@ links:
 # slides: example
 ---
 
-Metazoan cells depend on aerobic respiration to meet cellular energy demands. When oxygen supply fails to meet oxygen demand, cells must adapt their metabolic program to survive hypoxic stress. It is thought that hypoxia-inducible transcription factors (HIFs) are the primary mediators of the adaptive response through their regulation of metabolic gene expression. The HIF transcriptional program transition bioenergetic metabolism away from oxidative phosphorylation and towards glycolysis. Much of our understsanding of the hypoxia metabolic programs stems from studies of cancer cells lines and other diseased tissues. By contrast, the effects of hypoxia on primary cell metabolism are less clear. One of our goals is to understand how metabolic reprogramming facilitates cell survival in hypoxic primary cells. To accomplish this goal, we would like to address the following questions:
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Metazoan cells depend on aerobic respiration to meet cellular energy demands. When oxygen supply fails to meet oxygen demand, cells must adapt their metabolic program to survive hypoxic stress. It is thought that hypoxia-inducible transcription factors (HIFs) are the primary mediators of the adaptive response through their regulation of metabolic gene expression. The HIF transcriptional program transition bioenergetic metabolism away from oxidative phosphorylation and towards glycolysis. 
+
+```{r}
+knitr::include_graphics("hif.png")
+```
+
+In normoxia, constitutively expressed HIF-α proteins undergo proline hydroxylation catalyzed by prolyl hydroxylase enyzmes (PHDs). This modification is recognized by von Hippel Lindau (VHL) ubiquitin ligase, thereby targeting HIF-α for proteasomal degradation. PHDs require molecular oxygen to catalyze this protein modification. When oxygen tension falls, PHD activity decreases, leading to HIF-α stabilization. HIF-α dimerizes with its transcriptional co-activator HIF-β to induce the expression of a variety of metabolic genes. 
+
+PHDs are the principle oxygen sensors in human cells and catalyze the following reaction on select HIF-α proline residues. 
+
+```{r}
+knitr::include_graphics("phd.png")
+```
+
+Much of our understanding of the hypoxia metabolic programs stems from studies of cancer cells and other diseased tissues. By contrast, the effects of hypoxia on primary cell metabolism are less clear. One of our goals is to understand how metabolic reprogramming facilitates cell survival in hypoxic primary cells. To accomplish this goal, we would like to address the following questions:
 
 #### 1. What is the molecular landscape of human primary cell metabolism in hypoxia? 
 
