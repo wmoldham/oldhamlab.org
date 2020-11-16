@@ -1,5 +1,7 @@
 ---
 draft: true
+output: 
+  bookdown::html_document2
 title: Hypoxia Metabolism
 summary: How do cells adapt their metabolic program in response to hypoxic stress?
 tags:
